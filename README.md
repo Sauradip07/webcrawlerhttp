@@ -25,9 +25,13 @@ npm test
 To use the web crawler, simply provide a starting URL and the application will crawl the website and extract data. You can customize the crawler to extract specific data by modifying the code. The data is stored in a JSON file for easy analysis and manipulation.
 
 
-```
+```bash
+
 npm start httos://example.com
-#for example
+```
+```bash
+# for example
+
 npm start https://wagslane.dev
 
 ```
